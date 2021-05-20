@@ -1,8 +1,122 @@
 [
   {
+    "package": "FacileBiocData",
+    "url": "https://github.com/facilebio/FacileBiocData",
+    "via": ["FacileAnalysis"],
+    "from": "FacileAnalysis"
+  },
+  {
+    "package": "FacileData",
+    "url": "https://github.com/facilebio/FacileData",
+    "via": ["FacileAnalysis", "FacileBiocData"],
+    "from": "FacileAnalysis"
+  },
+  {
+    "package": "FacileData",
+    "url": "https://github.com/facilebio/FacileData",
+    "via": ["FacileAnalysis"],
+    "from": "FacileAnalysis"
+  },
+  {
+    "package": "FacileData",
+    "url": "https://github.com/facilebio/FacileData",
+    "via": ["FacileAnalysis", "FacileShine"],
+    "from": "FacileAnalysis"
+  },
+  {
+    "package": "FacileData",
+    "url": "https://github.com/facilebio/FacileData",
+    "via": ["FacileAnalysis", "FacileShine", "FacileViz"],
+    "from": "FacileAnalysis"
+  },
+  {
+    "package": "FacileData",
+    "url": "https://github.com/facilebio/FacileData",
+    "via": ["FacileAnalysis", "FacileViz"],
+    "from": "FacileAnalysis"
+  },
+  {
+    "package": "FacileShine",
+    "url": "https://github.com/facilebio/FacileShine",
+    "via": ["FacileAnalysis"],
+    "from": "FacileAnalysis"
+  },
+  {
+    "package": "FacileViz",
+    "url": "https://github.com/facilebio/FacileViz",
+    "via": ["FacileAnalysis", "FacileShine"],
+    "from": "FacileAnalysis"
+  },
+  {
+    "package": "FacileViz",
+    "url": "https://github.com/facilebio/FacileViz",
+    "via": ["FacileAnalysis"],
+    "from": "FacileAnalysis"
+  },
+  {
+    "package": "sparrow",
+    "url": "https://github.com/lianos/sparrow",
+    "via": ["FacileAnalysis", "FacileBiocData", "FacileData"],
+    "from": "FacileAnalysis"
+  },
+  {
+    "package": "sparrow",
+    "url": "https://github.com/lianos/sparrow",
+    "via": ["FacileAnalysis", "FacileData"],
+    "from": "FacileAnalysis"
+  },
+  {
+    "package": "sparrow",
+    "url": "https://github.com/lianos/sparrow",
+    "via": ["FacileAnalysis", "FacileShine", "FacileData"],
+    "from": "FacileAnalysis"
+  },
+  {
+    "package": "sparrow",
+    "url": "https://github.com/lianos/sparrow",
+    "via": ["FacileAnalysis", "FacileShine", "FacileViz", "FacileData"],
+    "from": "FacileAnalysis"
+  },
+  {
+    "package": "sparrow",
+    "url": "https://github.com/lianos/sparrow",
+    "via": ["FacileAnalysis", "FacileShine", "sparrow.shiny"],
+    "from": "FacileAnalysis"
+  },
+  {
+    "package": "sparrow",
+    "url": "https://github.com/lianos/sparrow",
+    "via": ["FacileAnalysis", "FacileViz", "FacileData"],
+    "from": "FacileAnalysis"
+  },
+  {
+    "package": "sparrow",
+    "url": "https://github.com/lianos/sparrow",
+    "via": ["FacileAnalysis"],
+    "from": "FacileAnalysis"
+  },
+  {
+    "package": "sparrow",
+    "url": "https://github.com/lianos/sparrow",
+    "via": ["FacileAnalysis", "sparrow.shiny"],
+    "from": "FacileAnalysis"
+  },
+  {
     "package": "sparrow",
     "url": "https://github.com/lianos/sparrow",
     "via": ["FacileData"],
     "from": "FacileData"
+  },
+  {
+    "package": "sparrow.shiny",
+    "url": "https://github.com/lianos/sparrow.shiny",
+    "via": ["FacileAnalysis", "FacileShine"],
+    "from": "FacileAnalysis"
+  },
+  {
+    "package": "sparrow.shiny",
+    "url": "https://github.com/lianos/sparrow.shiny",
+    "via": ["FacileAnalysis"],
+    "from": "FacileAnalysis"
   }
 ]

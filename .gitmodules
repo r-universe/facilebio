@@ -13,8 +13,28 @@
 	url = https://github.com/facilebio/FacileAnalysis
 	shallow = true
 	registered = true
+[submodule "FacileBiocData"]
+	path = FacileBiocData
+	url = https://github.com/facilebio/FacileBiocData
+	shallow = true
+	registered = false
+[submodule "FacileShine"]
+	path = FacileShine
+	url = https://github.com/facilebio/FacileShine
+	shallow = true
+	registered = false
+[submodule "FacileViz"]
+	path = FacileViz
+	url = https://github.com/facilebio/FacileViz
+	shallow = true
+	registered = false
 [submodule "sparrow"]
 	path = sparrow
 	url = https://github.com/lianos/sparrow
+	shallow = true
+	registered = false
+[submodule "sparrow.shiny"]
+	path = sparrow.shiny
+	url = https://github.com/lianos/sparrow.shiny
 	shallow = true
 	registered = false
