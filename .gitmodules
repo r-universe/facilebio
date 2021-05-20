@@ -13,3 +13,8 @@
 	url = https://github.com/facilebio/FacileAnalysis
 	shallow = true
 	registered = true
+[submodule "sparrow"]
+	path = sparrow
+	url = https://github.com/lianos/sparrow
+	shallow = true
+	registered = false
