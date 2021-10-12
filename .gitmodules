@@ -3,6 +3,16 @@
 	url = https://github.com/facilebio/universe
 	shallow = true
 	branch = HEAD
+[submodule "FacileData"]
+	path = FacileData
+	url = https://github.com/facilebio/FacileData
+	shallow = true
+	registered = true
+[submodule "FacileAnalysis"]
+	path = FacileAnalysis
+	url = https://github.com/facilebio/FacileAnalysis
+	shallow = true
+	registered = true
 [submodule "FacileBiocData"]
 	path = FacileBiocData
 	url = https://github.com/facilebio/FacileBiocData
