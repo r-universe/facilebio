@@ -80,12 +80,6 @@
   {
     "package": "sparrow",
     "url": "https://github.com/lianos/sparrow",
-    "via": ["FacileAnalysis", "FacileShine", "sparrow.shiny"],
-    "from": "FacileAnalysis"
-  },
-  {
-    "package": "sparrow",
-    "url": "https://github.com/lianos/sparrow",
     "via": ["FacileAnalysis", "FacileViz", "FacileData"],
     "from": "FacileAnalysis"
   },
@@ -93,12 +87,6 @@
     "package": "sparrow",
     "url": "https://github.com/lianos/sparrow",
     "via": ["FacileAnalysis"],
-    "from": "FacileAnalysis"
-  },
-  {
-    "package": "sparrow",
-    "url": "https://github.com/lianos/sparrow",
-    "via": ["FacileAnalysis", "sparrow.shiny"],
     "from": "FacileAnalysis"
   },
   {
