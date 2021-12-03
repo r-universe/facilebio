@@ -90,12 +90,6 @@
     "from": "FacileAnalysis"
   },
   {
-    "package": "sparrow",
-    "url": "https://github.com/lianos/sparrow",
-    "via": ["FacileData"],
-    "from": "FacileData"
-  },
-  {
     "package": "sparrow.shiny",
     "url": "https://github.com/lianos/sparrow.shiny",
     "via": ["FacileAnalysis", "FacileShine"],
