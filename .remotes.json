@@ -56,36 +56,6 @@
   {
     "package": "sparrow",
     "url": "https://github.com/lianos/sparrow",
-    "via": ["FacileAnalysis", "FacileBiocData", "FacileData"],
-    "from": "FacileAnalysis"
-  },
-  {
-    "package": "sparrow",
-    "url": "https://github.com/lianos/sparrow",
-    "via": ["FacileAnalysis", "FacileData"],
-    "from": "FacileAnalysis"
-  },
-  {
-    "package": "sparrow",
-    "url": "https://github.com/lianos/sparrow",
-    "via": ["FacileAnalysis", "FacileShine", "FacileData"],
-    "from": "FacileAnalysis"
-  },
-  {
-    "package": "sparrow",
-    "url": "https://github.com/lianos/sparrow",
-    "via": ["FacileAnalysis", "FacileShine", "FacileViz", "FacileData"],
-    "from": "FacileAnalysis"
-  },
-  {
-    "package": "sparrow",
-    "url": "https://github.com/lianos/sparrow",
-    "via": ["FacileAnalysis", "FacileViz", "FacileData"],
-    "from": "FacileAnalysis"
-  },
-  {
-    "package": "sparrow",
-    "url": "https://github.com/lianos/sparrow",
     "via": ["FacileAnalysis"],
     "from": "FacileAnalysis"
   },
